@@ -72,6 +72,9 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 ## Additional Information
 
+- Developed and actively support popular Joomla! extensions: "Youtube Gallery" and "Custom Tables".
+  - These extensions have gained significant user traction within the Joomla! community.
+  - Continuously provide support and enhancements as part of daily hobby activities.
 - Currently seeking H1B sponsorship to work in the United States.
 - Fluent in English, Spanish, and Russian.
 - Strong problem-solving and analytical skills.
