@@ -2,7 +2,7 @@
 
 ## Summary
 
-Experienced software developer with over 17 years of professional expertise in designing, developing, and maintaining software applications. Proficient in various programming languages and technologies, such as PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA, Joomla CMS Extensions, API Connectors, and Agile and Waterfall methodologies. Demonstrated ability to work both independently and collaboratively within teams to deliver high-quality results within project deadlines and budget constraints.
+Versatile and accomplished software developer with over 17 years of experience crafting innovative and scalable software solutions. Proven expertise in a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, and LUA. Adept at leveraging Agile and Waterfall methodologies to deliver high-impact projects within budget and on time. Thrives in both independent and collaborative environments, fostering a culture of innovation and excellence. Currently seeking H1B sponsorship to work in the United States.
 
 ## Contact Information
 
