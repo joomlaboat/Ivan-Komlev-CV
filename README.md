@@ -7,6 +7,7 @@ Experienced software developer with over 17 years of professional expertise in d
 ## Contact Information
 
 - **Name:** Ivan Komlev
+- **Location:** Panama
 - **Email:** ivankomlev@gmail.com
 - **Phone:** +507 6084-8737
 
