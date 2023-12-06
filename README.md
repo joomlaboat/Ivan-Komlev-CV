@@ -15,8 +15,14 @@ Experienced software developer with over 17 years of professional expertise in d
 
 ### Senior Programmer
 - **Employer:** Asociacion MMd Panama, S.A., Panama City, Panama
-- **Duration:** [Start Date] – Present
-- **Details:** Currently involved in [details of your role, projects, and responsibilities in the current position].
+- **Duration:** November 2023 – Present
+- **Details:**
+    - Currently involved in the maintenance and development of new functionality for the company's internal operational software.
+    - Responsibilities include ensuring the stability, performance, and ongoing improvements of the software.
+    - Collaborating with cross-functional teams to identify requirements and implement solutions that meet the organization's needs.
+    - Contributing to the full software development lifecycle, from conception to deployment, while adhering to project timelines and objectives.
+    - Actively participating in team discussions, sharing expertise, and providing technical guidance when necessary.
+    - Continuously evaluating and implementing innovative technologies to enhance software efficiency and effectiveness.
 
 ### Programmer
 - **Employer:** The Oxford School, Panama City, Panama
@@ -53,7 +59,9 @@ Experienced software developer with over 17 years of professional expertise in d
 
 - **Informatics and Computer Engineering**
 - **Institution:** Izhevsk State University, Izhevsk City, Russia
-- **Duration:** September 1998 – May 1999
+- **Duration:** September 1998 – May 1999 (Incomplete)
+
+*Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
 
 ## Additional Skills
 
