@@ -1,8 +1,14 @@
-# Software Developer CV
+# Ivan Komlev - Software Developer
 
 ## Summary
 
 Experienced software developer with over 17 years of professional expertise in designing, developing, and maintaining software applications. Proficient in various programming languages and technologies, such as PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA, Joomla CMS Extensions, API Connectors, and Agile and Waterfall methodologies. Demonstrated ability to work both independently and collaboratively within teams to deliver high-quality results within project deadlines and budget constraints.
+
+## Contact Information
+
+- **Name:** Ivan Komlev
+- **Email:** ivankomlev@gmail.com
+- **Phone:** +507 6084-8737
 
 ## Skills
 
@@ -28,7 +34,7 @@ Experienced software developer with over 17 years of professional expertise in d
 - **Employer:** The Oxford School, Panama City, Panama
 - **Duration:** April 2014 – February 2023
 - **Details:**
-    - Developed and maintained the Oxford School Management System (OxfordSMS), a comprehensive school management system used by over 100 schools in Panama.
+    - Developed and maintained the Oxford School Management System (OxfordSMS), a comprehensive school management system used by over 5 schools in Panama.
     - Managed the entire software development lifecycle, from requirements gathering to deployment and maintenance.
     - Collaborated with teachers and administrators to ensure the system met their needs.
 
@@ -63,11 +69,12 @@ Experienced software developer with over 17 years of professional expertise in d
 
 *Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
 
-## Additional Skills
+## Additional Information
 
-- Fluent in English, Spanish, and Russian
-- Strong problem-solving and analytical skills
-- Excellent communication and teamwork skills
+- Currently seeking H1B sponsorship to work in the United States.
+- Fluent in English, Spanish, and Russian.
+- Strong problem-solving and analytical skills.
+- Excellent communication and teamwork skills.
 
 ## References
 
