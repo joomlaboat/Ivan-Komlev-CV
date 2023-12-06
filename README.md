@@ -70,6 +70,18 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 *Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
 
+## Personal Projects
+
+### Youtube Gallery - Joomla! Extension
+- **Description:** Developed and actively maintain the "Youtube Gallery" Joomla! extension, a popular tool within the Joomla! community for integrating and displaying YouTube videos seamlessly.
+- **Link:** [Youtube Gallery](http://joomlaboat.com/youtube-gallery)
+- **Role:** Sole developer and ongoing support provider.
+
+### Custom Tables - Joomla! Extension
+- **Description:** Created and continuously support the "Custom Tables" Joomla! extension, offering customizable table functionalities for Joomla! websites.
+- **Link:** [Custom Tables](http://joomlaboat.com/custom-tables)
+- **Role:** Sole developer and ongoing support provider.
+
 ## Additional Information
 
 - Developed and actively support popular Joomla! extensions: "Youtube Gallery" and "Custom Tables".
