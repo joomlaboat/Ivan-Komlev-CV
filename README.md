@@ -8,6 +8,7 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 - **Name:** Ivan Komlev
 - **Location:** Panama
+- **Permanent Residency:** Panama
 - **Email:** ivankomlev@gmail.com
 - **Phone:** +507 6084-8737
 
