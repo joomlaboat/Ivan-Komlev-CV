@@ -12,7 +12,7 @@ While I do not have authorization to work in the US as a direct employee, I am a
 
 - **Name:** Ivan Komlev
 - **Location:** Panama / Alaska, United States
-- **Permanent Residency:** Panama
+- **Residency Status:** Permanent Resident of Panama, legally authorized to work and reside in Panama.
 - **Email:** ivankomlev@gmail.com
 - **Mobile USA:** +1 615 830-6571
 - **WhatsApp Panama:** +507 6084-8737
@@ -20,7 +20,7 @@ While I do not have authorization to work in the US as a direct employee, I am a
 
 ## Skills
 
-- **Programming Languages:** PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA
+- **Programming Languages:** PHP, JavaScript (jQuery, Angular), SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA
 - **Web Development:** Joomla CMS Extensions, WordPress Plugins, API Connectors
 - **Mobile App Development:** LUA
 - **Software Development Methodologies:** Agile, Waterfall
@@ -40,10 +40,8 @@ While I do not have authorization to work in the US as a direct employee, I am a
 - **Employer:** Asociacion MMd Panama, S.A., Panama City, Panama
 - **Duration:** November 2023 – March 2024
 - **Details:**
-    - Currently involved in the maintenance and development of new functionality for the company's internal operational software.
+    - Was involved in the maintenance and development of new functionality for the company's internal operational software (PHP - Codeigniter, Angular).
     - Responsibilities include ensuring the stability, performance, and ongoing improvements of the software.
-    - Collaborating with cross-functional teams to identify requirements and implement solutions that meet the organization's needs.
-    - Contributing to the full software development lifecycle, from conception to deployment, while adhering to project timelines and objectives.
     - Actively participating in team discussions, sharing expertise, and providing technical guidance when necessary.
     - Continuously evaluating and implementing innovative technologies to enhance software efficiency and effectiveness.
 
