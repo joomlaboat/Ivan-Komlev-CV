@@ -84,6 +84,18 @@ While I do not have authorization to work in the US as a direct employee, I am a
 
 *Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
 
+## Certificates
+
+- **[Udemy - Object Oriented PHP & MVC](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/udemy-php-mvc.pdf)**
+- **[Python is Easy](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/Python-Ivan-Komlev-2020-12-09.pdf)**
+- **[TOEFL](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/TOEFL.pdf)**
+- **[Javascript Intermediate](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/javascript_intermediate%20certificate.pdf)**
+- **[Joomla! 3 Administrator](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/joomla-3x-certificate.png)**
+- **[Problem Solving Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/problem_solving_basic%20certificate.pdf)**
+- **[Phyton Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/python_basic%certificate.pdf)**
+- **[SQL Intermediat](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/sql_intermediate%certificate-1.pdf)**
+
+
 ## Additional Information
 
 - Developed and actively support popular Joomla! extensions: "Youtube Gallery" and "Custom Tables".
