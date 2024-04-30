@@ -7,7 +7,7 @@ Versatile and accomplished software developer with over 17 years of experience c
 ## Contact Information
 
 - **Name:** Ivan Komlev
-- **Location:** Panama / Anchorage, Alasta, United States
+- **Location:** Panama / Alaska, United States
 - **Permanent Residency:** Panama
 - **Email:** ivankomlev@gmail.com
 - **Mobile USA:** +1 615 830-6571
