@@ -1,4 +1,4 @@
-# Ivan Komlev - Software Developer
+# Ivan Komlev - Software Development Expert | PHP, JavaScript, SQL
 
 ## Summary
 
