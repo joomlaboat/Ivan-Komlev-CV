@@ -1,29 +1,20 @@
-[Your Name]
-[Your Address]
-[City, State, ZIP]
-[Your Email]
-[Your Phone Number]
+Ivan Komlev
+Panama City, Panama
+ivankomlev@gmail.com
++507 6084-8737
++1 615 830-6571
 [Today's Date]
-
 [Hiring Manager's Name]
 [Company Name]
 [Company Address]
 [City, State, ZIP]
-
 Dear [Hiring Manager's Name],
-
-I am writing to express my interest in the [position name] position at [Company Name], as advertised. With over 17 years of experience as a software developer and a proven track record in designing and implementing innovative solutions, I am excited about the opportunity to contribute my expertise to your team.
-
-Throughout my career, I have honed my skills in various programming languages, including PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, and LUA. Notably, my contributions to the development and ongoing support of popular Joomla! extensions such as "Youtube Gallery" and "Custom Tables" have earned recognition within the Joomla! community. These projects reflect my dedication to delivering high-quality solutions and providing ongoing maintenance and support as part of my daily passion for software development.
-
-I thrive in both independent and collaborative environments and possess a comprehensive understanding of Agile and Waterfall methodologies. My ability to manage entire software development lifecycles, from conceptualization to deployment, aligns with the ethos of delivering projects within budget and on time.
-
-I am eager to bring my expertise in software development, coupled with my commitment to continuous learning and innovation, to [Company Name]. I am particularly drawn to your company's [mention any specific projects, company culture, or values that resonate with you].
-
-Enclosed is my resume that details my professional experience and skills. I am enthusiastic about the possibility of contributing to your team and would welcome the opportunity to discuss how my background aligns with the needs of [Company Name].
-
-Thank you for considering my application. I look forward to the possibility of discussing this exciting opportunity with you.
-
+As an accomplished software professional with over 17 years of experience in crafting innovative and scalable solutions, I am excited to express my interest in contributing my expertise to [Company Name] through remote contractor roles facilitated by my Alaska-based LLC, JoomlaBoat, LLC.
+With a proven track record in leveraging a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL, C#, C++, Python, Java, and LUA, I have consistently delivered high-impact projects within budget and on time. My proficiency in Agile and Waterfall methodologies has enabled me to excel in both independent and collaborative environments, fostering a culture of innovation and excellence.
+As a non-US resident living in Panama, I cannot be directly employed by US companies. However, by contracting services through my US-based LLC, I can compliantly provide my skills and services to [Company Name] while residing abroad. I am available to take on projects as an independent 1099 contractor working through JoomlaBoat, LLC.
+Notably, my contributions to the development and ongoing support of popular Joomla! extensions, such as "Youtube Gallery" and "Custom Tables," have gained significant traction within the Joomla! community. These projects exemplify my dedication to delivering high-quality solutions and providing continuous maintenance and enhancements.
+I am particularly drawn to [Company Name's] [mention any specific projects, company culture, or values that resonate with you], and I am confident that my versatile skillset and commitment to excellence would make me a valuable asset to your team.
+Enclosed is my resume, which provides further details about my professional experience and qualifications. I would welcome the opportunity to discuss how my background and expertise through my LLC can contribute to the success of [Company Name].
+Thank you for your consideration, and I look forward to the possibility of exploring this exciting opportunity further.
 Warm regards,
-
-[Your Name]
+Ivan Komlev
