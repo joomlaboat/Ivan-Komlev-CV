@@ -92,8 +92,8 @@ While I do not have authorization to work in the US as a direct employee, I am a
 - **[Javascript Intermediate](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/javascript_intermediate%20certificate.pdf)**
 - **[Joomla! 3 Administrator](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/joomla-3x-certificate.png)**
 - **[Problem Solving Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/problem_solving_basic%20certificate.pdf)**
-- **[Phyton Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/python_basic%certificate.pdf)**
-- **[SQL Intermediat](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/sql_intermediate%certificate-1.pdf)**
+- **[Phyton Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/python_basic%20certificate.pdf)**
+- **[SQL Intermediat](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/sql_intermediate%20certificate-1.pdf)**
 
 
 ## Additional Information
