@@ -7,24 +7,36 @@ Versatile and accomplished software developer with over 17 years of experience c
 ## Contact Information
 
 - **Name:** Ivan Komlev
-- **Location:** Panama
+- **Location:** Panama / Anchorage, Alasta, United States
 - **Permanent Residency:** Panama
 - **Email:** ivankomlev@gmail.com
-- **Mobile USA +1 615 830-6571
+- **Mobile USA:** +1 615 830-6571
 - **WhatsApp Panama:** +507 6084-8737
 
 ## Skills
 
 - **Programming Languages:** PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA
-- **Web Development:** Joomla CMS Extensions, API Connectors
+- **Web Development:** Joomla CMS Extensions, WordPress Plugins, API Connectors
 - **Mobile App Development:** LUA
 - **Software Development Methodologies:** Agile, Waterfall
 
 ## Experience
 
+
+### Owner / Principal Programmer
+- **Employer:** JoomlaBoat, LLC, Alaska, United States
+- **Duration:** April 2024 – Present
+- **Details:**
+    - Joomla Extensions and Custom software development.
+    - ### Youtube Gallery - Joomla! Extension
+    - **Link:** [Youtube Gallery](http://joomlaboat.com/youtube-gallery)
+    - ### Custom Tables - Joomla! Extension
+    - **Description:** Created and continuously support the "Custom Tables" Joomla! extension, offering customizable table functionalities for Joomla! websites.
+    - **Link:** [Custom Tables](http://joomlaboat.com/custom-tables)
+
 ### Senior Programmer
 - **Employer:** Asociacion MMd Panama, S.A., Panama City, Panama
-- **Duration:** November 2023 – Present
+- **Duration:** November 2023 – March 2024
 - **Details:**
     - Currently involved in the maintenance and development of new functionality for the company's internal operational software.
     - Responsibilities include ensuring the stability, performance, and ongoing improvements of the software.
@@ -71,18 +83,6 @@ Versatile and accomplished software developer with over 17 years of experience c
 - **Duration:** September 1998 – May 1999 (Incomplete)
 
 *Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
-
-## Personal Projects
-
-### Youtube Gallery - Joomla! Extension
-- **Description:** Developed and actively maintain the "Youtube Gallery" Joomla! extension, a popular tool within the Joomla! community for integrating and displaying YouTube videos seamlessly.
-- **Link:** [Youtube Gallery](http://joomlaboat.com/youtube-gallery)
-- **Role:** Sole developer and ongoing support provider.
-
-### Custom Tables - Joomla! Extension
-- **Description:** Created and continuously support the "Custom Tables" Joomla! extension, offering customizable table functionalities for Joomla! websites.
-- **Link:** [Custom Tables](http://joomlaboat.com/custom-tables)
-- **Role:** Sole developer and ongoing support provider.
 
 ## Additional Information
 
