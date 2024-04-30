@@ -10,7 +10,8 @@ Versatile and accomplished software developer with over 17 years of experience c
 - **Location:** Panama
 - **Permanent Residency:** Panama
 - **Email:** ivankomlev@gmail.com
-- **Phone:** +507 6084-8737
+- **Mobile USA +1 615 830-6571
+- **WhatsApp Panama:** +507 6084-8737
 
 ## Skills
 
