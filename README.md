@@ -28,9 +28,9 @@ Versatile and accomplished software developer with over 17 years of experience c
 - **Duration:** April 2024 – Present
 - **Details:**
     - Joomla/WordPress Extensions/Plugins and Custom software development.
-    - ### Youtube Gallery - Joomla! Extension
+    - Youtube Gallery - Joomla! Extension
     - **Link:** [Youtube Gallery](http://joomlaboat.com/youtube-gallery)
-    - ### Custom Tables - Joomla! Extension
+    - Custom Tables - Joomla! Extension
     - **Description:** Created and continuously support the "Custom Tables" Joomla! extension, offering customizable table functionalities for Joomla! websites.
     - **Link:** [Custom Tables](http://joomlaboat.com/custom-tables)
 
