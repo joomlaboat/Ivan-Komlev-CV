@@ -24,10 +24,10 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 
 ### Owner / Principal Programmer
-- **Employer:** JoomlaBoat, LLC, Alaska, United States
+- **Company:** JoomlaBoat, LLC, Alaska, United States
 - **Duration:** April 2024 – Present
 - **Details:**
-    - Joomla Extensions and Custom software development.
+    - Joomla/WordPress Extensions/Plugins and Custom software development.
     - ### Youtube Gallery - Joomla! Extension
     - **Link:** [Youtube Gallery](http://joomlaboat.com/youtube-gallery)
     - ### Custom Tables - Joomla! Extension
