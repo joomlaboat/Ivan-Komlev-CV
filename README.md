@@ -4,9 +4,8 @@
 
 Versatile and accomplished software developer with over 17 years of experience crafting innovative and scalable software solutions. Proven expertise in a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, and LUA. Adept at leveraging Agile and Waterfall methodologies to deliver high-impact projects within budget and on time. Thrives in both independent and collaborative environments, fostering a culture of innovation and excellence.
 
-I am pursuing remote roles to be carried out through my legally established Alaska LLC (JoomlaBoat, LLC). As a non-US resident living in Panama, I am able to provide services to US companies compliantly by contracting through my Alaska limited liability company. I can take on projects as an independent 1099 contractor through my LLC.
+As a non-US resident living in Panama, I cannot be directly employed by US companies. However, I am pursuing remote contractor roles through my legally established Alaska LLC (JoomlaBoat, LLC). By contracting services through my US-based LLC, I can compliantly provide services to US companies while residing abroad. I am available to take on projects as an independent 1099 contractor working through my Alaska LLC.
 
-While I do not have authorization to work in the US as a direct employee, I am able to provide services to US companies through my legally established Alaska limited liability company (LLC name). As a non-resident living in Panama, I propose contracting my work for your company through my US-based LLC rather than as an employee.
 
 ## Contact Information
 
