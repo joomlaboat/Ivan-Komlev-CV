@@ -10,7 +10,7 @@ As a non-US resident currently living in Autin TX, I cannot be directly employed
 ## Contact Information
 
 - **Name:** Ivan Komlev
-- **Location:** Panama / Texas, United States
+- **Location:** Texas, United States / Panama
 - **Residency Status:** Permanent Resident of Panama, legally authorized to work and reside in Panama.
 - **Email:** ivankomlev@gmail.com
 - **Mobile USA:** +1 615 830-6571
