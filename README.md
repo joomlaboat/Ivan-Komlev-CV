@@ -4,16 +4,14 @@
 
 Versatile and accomplished software developer with over 17 years of experience crafting innovative and scalable software solutions. Proven expertise in a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, and LUA. Adept at leveraging Agile and Waterfall methodologies to deliver high-impact projects within budget and on time. Thrives in both independent and collaborative environments, fostering a culture of innovation and excellence.
 
-As a non-US resident currently living in Autin TX, I cannot be directly employed by US companies. However, I am pursuing remote contractor roles through my legally established Alaska LLC (JoomlaBoat, LLC). By contracting services through my US-based LLC, I can compliantly provide services to US companies while residing abroad. I am available to take on projects as an independent 1099 contractor working through my JoomlaBoat, LLC.
-
-
 ## Contact Information
 
 - **Name:** Ivan Komlev
-- **Location:** Texas, United States / Panama
+- **Location:** Ciudad de Panama / Panama
 - **Residency Status:** Permanent Resident of Panama, legally authorized to work and reside in Panama.
 - **Email:** ivankomlev@gmail.com
 - **Mobile USA:** +1 615 830-6571
+- **Mobile Panama:** +507 6683-9008
 - **WhatsApp Panama:** +507 6084-8737
 - **LinkedIn:** [https://www.linkedin.com/in/ivan-komlev/](https://www.linkedin.com/in/ivan-komlev/)
 
