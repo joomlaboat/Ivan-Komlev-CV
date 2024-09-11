@@ -19,7 +19,7 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 - **Programming Languages:** PHP, JavaScript (jQuery, Angular), SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA
 - **Web Development:** Joomla CMS Extensions, WordPress Plugins, API Connectors
-- **Mobile App Development:** LUA
+- **Mobile App Development:** React Native
 - **Software Development Methodologies:** Agile, Waterfall
 
 ## Experience
