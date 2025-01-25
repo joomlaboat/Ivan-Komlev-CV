@@ -7,12 +7,9 @@ Versatile and accomplished software developer with over 17 years of experience c
 ## Contact Information
 
 - **Name:** Ivan Komlev
-- **Location:** Ciudad de Panama / Panama
-- **Residency Status:** Permanent Resident of Panama, legally authorized to work and reside in Panama.
+- **Location:** Anchorage / Alaska
 - **Email:** ivankomlev@gmail.com
-- **Mobile USA:** +1 615 830-6571
-- **Mobile Panama:** +507 6683-9008
-- **WhatsApp Panama:** +507 6084-8737
+- **Phone:** +1 615 830-6571
 - **LinkedIn:** [https://www.linkedin.com/in/ivan-komlev/](https://www.linkedin.com/in/ivan-komlev/)
 
 ## Skills
@@ -98,7 +95,6 @@ Versatile and accomplished software developer with over 17 years of experience c
 - Developed and actively support popular Joomla! extensions: "Youtube Gallery" and "Custom Tables".
   - These extensions have gained significant user traction within the Joomla! community.
   - Continuously provide support and enhancements as part of daily hobby activities.
-- Currently seeking H1B sponsorship to work in the United States.
 - Fluent in English, Spanish, and Russian.
 - Strong problem-solving and analytical skills.
 - Excellent communication and teamwork skills.
