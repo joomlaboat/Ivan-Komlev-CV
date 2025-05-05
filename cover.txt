@@ -1,20 +1,19 @@
 Ivan Komlev
-Panama City, Panama
+Anchorage, Alaska
 ivankomlev@gmail.com
-+507 6084-8737
 +1 615 830-6571
-[Today's Date]
+[Today’s Date]
+
 [Hiring Manager's Name]
 [Company Name]
-[Company Address]
-[City, State, ZIP]
+
 Dear [Hiring Manager's Name],
-As an accomplished software professional with over 17 years of experience in crafting innovative and scalable solutions, I am excited to express my interest in contributing my expertise to [Company Name] through remote contractor roles facilitated by my Alaska-based LLC, JoomlaBoat, LLC.
-With a proven track record in leveraging a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL, C#, C++, Python, Java, and LUA, I have consistently delivered high-impact projects within budget and on time. My proficiency in Agile and Waterfall methodologies has enabled me to excel in both independent and collaborative environments, fostering a culture of innovation and excellence.
-As a non-US resident living in Panama, I cannot be directly employed by US companies. However, by contracting services through my US-based LLC, I can compliantly provide my skills and services to [Company Name] while residing abroad. I am available to take on projects as an independent 1099 contractor working through JoomlaBoat, LLC.
-Notably, my contributions to the development and ongoing support of popular Joomla! extensions, such as "Youtube Gallery" and "Custom Tables," have gained significant traction within the Joomla! community. These projects exemplify my dedication to delivering high-quality solutions and providing continuous maintenance and enhancements.
-I am particularly drawn to [Company Name's] [mention any specific projects, company culture, or values that resonate with you], and I am confident that my versatile skillset and commitment to excellence would make me a valuable asset to your team.
-Enclosed is my resume, which provides further details about my professional experience and qualifications. I would welcome the opportunity to discuss how my background and expertise through my LLC can contribute to the success of [Company Name].
-Thank you for your consideration, and I look forward to the possibility of exploring this exciting opportunity further.
-Warm regards,
+
+I’m an experienced software developer with over 17 years in the field, specializing in PHP, JavaScript, SQL, and related technologies. I’ve built and maintained a wide range of applications—from internal business systems to widely used open-source tools—and I’m passionate about writing clean, efficient code that solves real problems.
+
+I’m now looking for a full-time position where I can contribute my skills, grow with a strong team, and work on meaningful projects. I’d welcome the chance to learn more about your team and how I can help.
+
+Thank you for your time and consideration.
+
+Best regards,
 Ivan Komlev
