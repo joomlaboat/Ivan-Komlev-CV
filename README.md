@@ -2,7 +2,7 @@
 
 ## Summary
 
-Versatile and accomplished software developer with over 17 years of experience crafting innovative and scalable software solutions. Proven expertise in a comprehensive range of programming languages and technologies, including PHP, JavaScript, SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, and LUA. Adept at leveraging Agile and Waterfall methodologies to deliver high-impact projects within budget and on time. Thrives in both independent and collaborative environments, fostering a culture of innovation and excellence.
+I'm a passionate and experienced software developer with over 17 years in the field, building everything from school management systems to popular Joomla extensions. I work comfortably across a wide range of programming languages—PHP, JavaScript, SQL, Python, and more—and enjoy solving complex problems with clean, effective code. Whether working solo or with a team, I focus on building practical, scalable solutions that actually make users' lives easier. I’m equally at home in fast-moving Agile environments or more structured Waterfall setups, and I take pride in writing software that lasts.
 
 ## Contact Information
 
@@ -16,7 +16,7 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 - **Programming Languages:** PHP, JavaScript (jQuery, Angular), SQL (MySQL and Microsoft SQL), C#, C++, Python, Java, LUA
 - **Web Development:** Joomla CMS Extensions, WordPress Plugins, API Connectors
-- **Mobile App Development:** React Native
+- **Mobile App Development:** React Native, Java
 - **Software Development Methodologies:** Agile, Waterfall
 
 ## Experience
@@ -92,8 +92,8 @@ Versatile and accomplished software developer with over 17 years of experience c
 
 ## Additional Information
 
-- Developed and actively support popular Joomla! extensions: "Youtube Gallery" and "Custom Tables".
-  - These extensions have gained significant user traction within the Joomla! community.
+- Developed and actively support popular extensions / plugins: "Youtube Gallery" and "Custom Tables".
+  - These extensions have gained significant user traction within the Joomla! and WordPress community.
   - Continuously provide support and enhancements as part of daily hobby activities.
 - Fluent in English, Spanish, and Russian.
 - Strong problem-solving and analytical skills.
