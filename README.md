@@ -10,6 +10,8 @@ I'm a passionate and experienced software developer with over 17 years in the fi
 - **Location:** Anchorage / Alaska
 - **Email:** ivankomlev@gmail.com
 - **Phone:** +1 615 830-6571
+- https://github.com/joomlaboat/
+- **GitHub:** [https://github.com/joomlaboat/](https://github.com/joomlaboat/)
 - **LinkedIn:** [https://www.linkedin.com/in/ivan-komlev/](https://www.linkedin.com/in/ivan-komlev/)
 
 ## Skills
