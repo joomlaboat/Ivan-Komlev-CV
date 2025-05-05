@@ -7,7 +7,7 @@ ivankomlev@gmail.com
 [Hiring Manager's Name]
 [Company Name]
 
-Dear [Hiring Manager's Name],
+Dear Sir or Madam,,
 
 I’m an experienced software developer with over 17 years in the field, specializing in PHP, JavaScript, SQL, and related technologies. I’ve built and maintained a wide range of applications—from internal business systems to widely used open-source tools—and I’m passionate about writing clean, efficient code that solves real problems.
 
