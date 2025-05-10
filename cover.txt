@@ -1,15 +1,20 @@
 Ivan Komlev
-Anchorage, Alaska
+Alaska, United States
 ivankomlev@gmail.com
+
 +1 615 830-6571
 
-Dear Sir or Madam,,
+My name is Ivan, and I have 17 years of experience in web development and mobile app development.
 
-I’m an experienced software developer with over 17 years in the field, specializing in PHP, JavaScript, SQL, and related technologies. I’ve built and maintained a wide range of applications—from internal business systems to widely used open-source tools—and I’m passionate about writing clean, efficient code that solves real problems.
+I developed a School Management System, multiple popular extensions for Joomla, and a Custom Tables plugin for WordPress, which became a pretty popular and useful tool for website masters.
 
-I’m now looking for a full-time position where I can contribute my skills, grow with a strong team, and work on meaningful projects. I’d welcome the chance to learn more about your team and how I can help.
+I used mostly PHP, JavaScript, MySQL, CSS and HTML5 for the Web Development. For mobile apps, I used React Native and Java, for older games LUA.
 
-Thank you for your time and consideration.
+I also made a Sage50 connector in C#.
+
+I’m looking for a full-time position where my skills will be useful.
+
+Thank you.
 
 Best regards,
 Ivan Komlev
