@@ -2,7 +2,10 @@
 
 ## Summary
 
-I'm a passionate and experienced software developer with over 17 years in the field, building everything from school management systems to popular Joomla extensions. I work comfortably across a wide range of programming languages—PHP, JavaScript, SQL, Python, and more—and enjoy solving complex problems with clean, effective code. Whether working solo or with a team, I focus on building practical, scalable solutions that actually make users' lives easier. I’m equally at home in fast-moving Agile environments or more structured Waterfall setups, and I take pride in writing software that lasts.
+I developed a School Management System, multiple popular extensions for Joomla, and a Custom Tables plugin for WordPress, which became a pretty popular and useful tool for website masters.
+I used mostly PHP, JavaScript, MySQL, CSS and HTML5 for the Web Development. For mobile apps, I used React Native and Java, for older games LUA.
+I also made a Sage50 connector in C#.
+I’m looking for a full-time position where my skills will be useful.
 
 ## Contact Information
 
