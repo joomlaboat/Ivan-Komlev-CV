@@ -100,6 +100,7 @@ I’m looking for a full-time position where my skills will be useful.
 - **[Problem Solving Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/problem_solving_basic%20certificate.pdf)**
 - **[Phyton Basic](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/python_basic%20certificate.pdf)**
 - **[SQL Intermediat](https://raw.githubusercontent.com/joomlaboat/Ivan-Komlev-CV/1d430319e1463b9bede9ff229129c043d67c660f/certificates/sql_intermediate%20certificate-1.pdf)**
+- **[OSHA 10 Hour General Industry Safety and Health](https://pdhsafety.com/)**
 
 
 ## Additional Information
