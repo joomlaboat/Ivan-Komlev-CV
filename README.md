@@ -1,4 +1,4 @@
-# Ivan Komlev - Software Development Expert | PHP, JavaScript, SQL
+# Ivan Komlev – Software Engineer with Hands-On Skills | PHP, JavaScript, SQL | From Code to Construction
 
 ## Summary
 
