@@ -23,9 +23,16 @@ I’m looking for a full-time position where my skills will be useful.
 - **Web Development:** Joomla CMS Extensions, WordPress Plugins, API Connectors
 - **Mobile App Development:** React Native, Java
 - **Software Development Methodologies:** Agile, Waterfall
+- **Mechanical & Technical Skills:** Product assembly, deck construction, tool handling, blueprint interpretation, hands-on troubleshooting
 
 ## Experience
 
+### Product Assembler
+- **Company:** North West Services (Retail Field Technician) - Alaska, United States
+- **Duration:** July 2025 – Present
+- **Details:**
+    - Assembled consumer hardware (bikes, grills, furniture) in retail stores
+    - Hands-on mechanical work, tools management, and customer coordination
 
 ### Owner
 - **Company:** JoomlaBoat, LLC - Alaska, United States
