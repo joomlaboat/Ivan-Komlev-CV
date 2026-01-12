@@ -24,6 +24,7 @@ I’m looking for a full-time position where my skills will be useful.
 - **Mobile App Development:** React Native, Java
 - **Software Development Methodologies:** Agile, Waterfall
 - **Mechanical & Technical Skills:** Product assembly, deck construction, tool handling, blueprint interpretation, hands-on troubleshooting
+- **Aviation & Ground Operations:** Aircraft marshalling and ground handling operations, operation of ground support equipment, aircraft turnaround and departure preparation, strict adherence to safety and regulatory procedures
 
 ## Experience
 
