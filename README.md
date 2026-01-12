@@ -1,11 +1,10 @@
-# Ivan Komlev – Software Engineer with Hands-On Skills | PHP, JavaScript, SQL | From Code to Construction
+# Ivan Komlev – Software Engineer & Aircraft Ground Support Specialist | PHP, JavaScript, SQL | From Code to Hands-On Work
 
 ## Summary
 
-I developed a School Management System, multiple popular extensions for Joomla, and a Custom Tables plugin for WordPress, which became a pretty popular and useful tool for website masters.
-I used mostly PHP, JavaScript, MySQL, CSS and HTML5 for the Web Development. For mobile apps, I used React Native and Java, for older games LUA.
-I also made a Sage50 connector in C#.
-I’m looking for a full-time position where my skills will be useful.
+I’m an experienced software developer and aviation ground operations professional. I’ve built a School Management System, popular Joomla extensions, and a widely used Custom Tables plugin for WordPress, mainly using PHP, JavaScript, MySQL, CSS, and HTML5. I also work with React Native and Java for mobile apps, LUA for older games, and C# for projects like a Sage50 connector.
+In addition, I have hands-on experience as a Ramp Agent, including aircraft marshalling, ground support equipment operation, and aircraft turnaround, always following strict safety procedures.
+I’m looking for a full-time role where I can apply both my technical and operational skills.
 
 ## Contact Information
 
@@ -28,12 +27,14 @@ I’m looking for a full-time position where my skills will be useful.
 
 ## Experience
 
-### Product Assembler
-- **Company:** North West Services (Retail Field Technician) - Alaska, United States
-- **Duration:** July 2025 – Present
+### Ramp Agent
+- **Company:** Swissport USA - Alaska, United States
+- **Duration:** September 2025 – Present
 - **Details:**
-    - Assembled consumer hardware (bikes, grills, furniture) in retail stores
-    - Hands-on mechanical work, tools management, and customer coordination
+    - Aircraft marshalling and ground handling operations
+    - Operation of ground support equipment
+    - Aircraft turnaround and departure preparation
+    - Strict adherence to safety and regulatory procedures
 
 ### Owner
 - **Company:** JoomlaBoat, LLC - Alaska, United States
