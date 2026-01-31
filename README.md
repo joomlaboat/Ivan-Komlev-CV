@@ -11,7 +11,7 @@ My background combines software engineering with real-world operational and safe
 
 - 📍 **Location:** Anchorage / Alaska
 - 📧 **Email:** ivankomlev@gmail.com
-- 📞 **Phone:** +1 615 830-6571
+- 📞 **Phone:** +1 907 727-2708
 - 🔗 **GitHub:** [https://github.com/joomlaboat/](https://github.com/joomlaboat/)
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/ivan-komlev/](https://www.linkedin.com/in/ivan-komlev/)
 
