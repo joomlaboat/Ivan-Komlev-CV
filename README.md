@@ -1,5 +1,5 @@
 # Ivan Komlev
-## Software Engineer & Aircraft Ground Support Specialist | PHP, JavaScript, SQL | From Code to Hands-On Work
+## Software Engineer & Aircraft Load Master / Ground Support Specialist
 
 ## Summary
 
@@ -26,18 +26,18 @@ My background combines software engineering with real-world operational and safe
     - Aircraft marshalling and ground handling operations
     - Operation of ground support equipment
     - Aircraft turnaround and departure preparation
-    - Load Master training (Nippon Cargo Airlines)
+    - Load Master (Nippon Cargo Airlines)
     - Strict adherence to safety and regulatory procedures
 
 ## Experience
 
-### Ramp Agent - Swissport USA (Alaska, United States)
+### Ramp Agent / Load Master - Swissport USA (Alaska, United States)
 - **Duration:** September 2025 – Present
 - **Details:**
     - Aircraft marshalling and ground handling operations
     - Operation of ground support equipment
     - Aircraft turnaround and departure preparation
-    - Strict adherence to safety and regulatory procedures
+    - Dangerous goods awareness / Documentation & compliance
 
 ### Owner - JoomlaBoat, LLC - (Alaska, United States)
 - **Duration:** April 2024 – Present
