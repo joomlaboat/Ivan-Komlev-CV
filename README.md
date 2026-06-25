@@ -23,6 +23,7 @@ My background combines software engineering with real-world operational and safe
 - **Software Development Methodologies:** Agile, Waterfall
 - **Mechanical & Technical Skills:** Product assembly, deck construction, tool handling, blueprint interpretation, hands-on troubleshooting
 - **Aviation Ground Operations:**
+    - Passenger check-in, boarding, gate operations, and customer service
     - Aircraft marshalling and ground handling operations
     - Operation of ground support equipment
     - Aircraft turnaround and departure preparation
@@ -31,13 +32,18 @@ My background combines software engineering with real-world operational and safe
 
 ## Experience
 
-### Ramp Agent / Load Master - Swissport USA (Alaska, United States)
+### CSA / Gate Operations • Load Planner (Weight & Balance) • Loadmaster • Ramp Agent
+Southwest Airlines • Nippon Cargo Airlines • Swissport USA (Alaska, United States).
 - **Duration:** September 2025 – Present
-- **Details:**
-    - Aircraft marshalling and ground handling operations
-    - Operation of ground support equipment
-    - Aircraft turnaround and departure preparation
-    - Dangerous goods awareness / Documentation & compliance
+- **Details:** 
+    - Passenger check-in, boarding, gate operations, and customer service
+    - Aircraft load planning, weight & balance calculations, and load sheet preparation
+    - Aircraft loading coordination for passenger and cargo operations
+    - Aircraft marshalling, pushback support, and ground handling operations
+    - Operation of ground support equipment (GSE)
+    - Aircraft turnaround coordination and on-time departure preparation
+    - Dangerous Goods (DG) documentation, awareness, and regulatory compliance
+    - Coordination with flight crews, ramp personnel, and operations control
 
 ### Owner - JoomlaBoat, LLC - (Alaska, United States)
 - **Duration:** April 2024 – Present
