@@ -92,7 +92,7 @@ Southwest Airlines • Nippon Cargo Airlines • Swissport USA (Alaska, United S
 ## Education
 
 - **Informatics and Computer Engineering**
-- **Institution:** Izhevsk State University, Izhevsk City, Russia
+- **Institution:** University Of Alaska Anchorage - Bachelor in Science (Computer Science)
 - **Duration:** September 1998 – May 1999 (Incomplete)
 
 *Note:* I moved to different countries (Prague and then Cyprus) due to personal reasons, which led to the discontinuation of formal education. However, I continued my learning independently, acquiring practical skills and knowledge in software development through self-study and real-world experience.
