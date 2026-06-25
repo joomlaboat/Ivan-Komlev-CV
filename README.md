@@ -1,11 +1,13 @@
 # Ivan Komlev
-## Software Engineer & Aircraft Load Master / Ground Support Specialist
+## Software Engineer | Airline Operations Specialist | Aircraft Load Planner | Ground Operations
 
 ## Summary
 
-I’m an experienced software developer with hands-on aviation ground operations experience.
-I’ve built a School Management System, popular Joomla extensions, and a widely used Custom Tables plugin.
-My background combines software engineering with real-world operational and safety-focused work.
+Software engineer with 25 years of experience designing and developing web applications, databases, and business software. Experienced in PHP, JavaScript, Python, SQL, C++, and full-stack application development.
+
+Currently working in airline ground operations, supporting passenger services, aircraft load planning (weight & balance), cargo operations, and aircraft turnaround for multiple international airlines. Experienced in safety-critical operations, regulatory compliance, and coordinating with flight crews and ground personnel.
+
+Developer of commercial software products, including a School Management System and widely used Joomla extensions such as the Custom Tables plugin. Combines strong software engineering expertise with practical aviation operations experience.
 
 ## Contact Information
 
